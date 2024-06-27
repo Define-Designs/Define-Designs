@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b> Home Lab</b>
-  - [Praciting DS & Algos in Python]((https://github.com/Define-Designs/Home-Lab-Project/blob/main/README.md))
+  - [Home Lab](https://github.com/Define-Designs/Home-Lab-Project/blob/main/README.md)
 
     
 <h2>📄 Certifications:</h2>
