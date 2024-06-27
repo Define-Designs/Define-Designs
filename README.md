@@ -2,12 +2,13 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b> Home Lab</b>
-  - [Home Lab](https://github.com/Define-Designs/Home-Lab-Project/blob/main/README.md)
+- <b> [Home Lab](https://github.com/Define-Designs/Home-Lab-Project/blob/main/README.md)
+</b>
 
     
 <h2>📄 Certifications:</h2>
-  - [Google Cybersecurity ](https://github.com/joshmadakor1/EncrypterPOC)
+
+- <b>[Google Cybersecurity ](https://github.com/joshmadakor1/EncrypterPOC)</b> 
 
 <h2>📺 Popular YouTube Videos</h2>
 
